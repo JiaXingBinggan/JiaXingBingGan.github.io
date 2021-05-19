@@ -19,6 +19,8 @@
 <li>再熟悉一遍业务</li>
 <li>modelarts业务最为重要，需要以gitee代码作为入口来学习整体流程</li>
 <li>其次应该以Resnet50模型为入口，完整的学习TF/MS/PT三个框架的开发流程</li>
+<li>以ELECTRA\BERT作为入口理解NLP</li>
+<li>以LeNet\Resnet50作为入口理解CV</li>
 </ol>
 </blockquote>
 <h3 id="建议措施"><a href="#建议措施" class="headerlink" title="建议措施"></a>建议措施</h3><blockquote>
